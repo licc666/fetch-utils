@@ -1,5 +1,5 @@
 {
-	"name": "fetch-utils",
+	"name": "fetch-utils-lcc",
 	"version": "1.0.0",
 	"description": "a fetch request utils",
 	"main": "index.js",
