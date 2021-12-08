@@ -1,0 +1,13 @@
+{
+	"name": "fetch-utils",
+	"version": "1.0.0",
+	"description": "a fetch request utils",
+	"main": "index.js",
+	"author": "licc666",
+	"license": "ISC",
+	"repository": {
+		"type": "github",
+		"url": "https://github.com/licc666/fetch-utils.git"
+	},
+	"dependencies": {}
+}
