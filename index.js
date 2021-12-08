@@ -1,5 +1,5 @@
 // 如果需要兼容使用请安装 whatwg-fetch
-const baseURL = import.meta.env.VITE_BASE_URL
+const baseURL = ''
 
 const headers = (init = {}) => {
 	return new Headers(init)
